@@ -91,8 +91,6 @@ The analysis investigates questions such as:
 - Monitor customer segments to understand their contribution to overall profitability.
 
 
-## Project Structure
-
 ```text
 superstore-eda/
 │
@@ -114,3 +112,38 @@ superstore-eda/
 └── README.md
 ```
 
+## How to Clone and Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ShashiSacks/superstore-sales-profitability-eda.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd superstore-sales-profitability-eda
+```
+
+### 3. Install the required libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+
+### 4. Start Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 5. Open the notebook
+
+Open:
+
+```text
+notebooks/Superstore_EDA.ipynb
+```
+
+Run the notebook cells to reproduce the analysis and visualizations.
