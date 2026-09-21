@@ -92,6 +92,9 @@ The analysis investigates questions such as:
 
 ## Project Structure
 
+## Project Structure
+
+```text
 superstore-eda/
 │
 ├── data/
@@ -110,3 +113,5 @@ superstore-eda/
 │   └── top_profitable_products.png
 │
 └── README.md
+```
+
