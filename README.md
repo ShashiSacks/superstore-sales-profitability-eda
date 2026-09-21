@@ -90,7 +90,6 @@ The analysis investigates questions such as:
 - Consider profit margins along with total sales when evaluating business performance.
 - Monitor customer segments to understand their contribution to overall profitability.
 
-## Project Structure
 
 ## Project Structure
 
