@@ -101,5 +101,12 @@ superstore-eda/
 │   └── Superstore_EDA.ipynb
 │
 ├── visualizations/
+│   ├── sales_profit_by_category.png
+│   ├── profit_by_subcategory.png
+│   ├── sales_profit_by_region.png
+│   ├── sales_profit_over_time.png
+│   ├── discount_vs_profit.png
+│   ├── top_loss_making_products.png
+│   └── top_profitable_products.png
 │
 └── README.md
